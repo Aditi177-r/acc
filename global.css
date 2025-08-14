@@ -1,0 +1,18 @@
+#card {
+    justify-content: center;
+    display: flex;
+    padding: 3%;
+    
+}
+.card img {
+   
+    height: 200px;
+}
+.img-div {
+    margin: auto;
+}
+.video-section {
+    display: flex;
+    padding: 2%;
+    margin: auto;
+}
